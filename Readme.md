@@ -1,0 +1,1 @@
+projeto listas,tabelas detalhes do capitulo 10 vou começar  na prática  a treinar usar listas e tabelas .
