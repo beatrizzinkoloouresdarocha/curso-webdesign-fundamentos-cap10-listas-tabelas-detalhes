@@ -5,7 +5,7 @@ body {
 table {
     width: 80%;
     margin: auto;
-    background-color: beige;
+    background-color: rgb(220, 245, 242);
     border-collapse: collapse;
 }
 
@@ -23,5 +23,5 @@ td {
 
 /* Adicionando a cor de fundo ao passar o mouse sobre a célula */
 td:hover {
-    background-color: lightgray;
+    background-color: rgb(12, 158, 231);
 }
